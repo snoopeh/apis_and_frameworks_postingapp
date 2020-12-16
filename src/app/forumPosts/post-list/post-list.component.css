@@ -1,0 +1,23 @@
+:host {
+  display: block;
+  margin-top: 1rem;
+}
+
+.info-text{
+  text-align: center;
+}
+
+mat-spinner,
+textarea{
+  margin: auto;
+}
+
+.post-image{
+  width: 100%;
+}
+
+.post-image img{
+  max-width: 800px;
+  max-height: 450px;
+  width: 100%;
+}

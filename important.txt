@@ -1,0 +1,25 @@
+- Uninstall NPM
+
+- Uninstall node
+
+- Uninstall GIT BASH
+
+
+hG2]vX2<7@/47K5~JBH!wn (JWT)
+
+export PATH=$PATH:/d/Programming\ shit/node
+ng serve
+
+
+export PATH=$PATH:/d/Programming\ shit/node
+npm run start:server
+
+
+cd /d d:\
+cd D:\Programming shit\MEAN\MongoShell\bin
+mongo "mongodb+srv://cluster0.sbo0y.mongodb.net/postsDatabase" --username expressdbuser
+hXB72GLb4gl3Ogzd
+
+
+teste1234@teste.com
+teste1234
