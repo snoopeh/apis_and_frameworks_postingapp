@@ -86,8 +86,6 @@ export class PostsService {
   }
 }
 
-
-
  //const post: Post = {id: responseData.post.id, title:parmTitle, content:parmContent, imagePath: responseData.post.imagePath};
         //const id = responseData.post.id;
         //post.id = id;

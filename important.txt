@@ -23,3 +23,7 @@ hXB72GLb4gl3Ogzd
 
 teste1234@teste.com
 teste1234
+
+
+API key: 345173CAC74842AAA065ADA5FEF97EE2
+API password: eb07350268
